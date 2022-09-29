@@ -4,7 +4,7 @@
 
 
 
- •  🔭 Currently working at NTL as apprentice FullStack Developer <br>
+ •  🔭 Currently working at NTL as Apprentice Fullstack Developer <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
