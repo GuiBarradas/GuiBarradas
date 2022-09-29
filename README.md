@@ -1,12 +1,17 @@
-##
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBarradas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<b>Howdy, my name is Guilherme!</b> 👋
+<br><br>
+
+
+
+ •  🔭 Currently working at NTL as apprentice FullStack Developer <br>
+ • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
 ##
+
 <div align="center">
- <img src="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/b000f1c64853b957fe608f08fd131c60602f168a/github-metrics.svg" alt="Metrics" width="40%">
+ <img src="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/b000f1c64853b957fe608f08fd131c60602f168a/github-metrics.svg" alt="Metrics" width="45%">
 </table>
   <div align="center" style="display: inline_block"><br>
     <img alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
