@@ -11,7 +11,7 @@
 ##
 
 <div align="center">
- <img src="github-metrics.svg" alt="Metrics" width="50%">
+ <img src="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/68c01831284a5c8c8f0d946b95ffe845ae235446/github-metrics.svg" alt="Metrics" width="50%">
 </table>
   <div align="center" style="display: inline_block"><br>
     <img alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
