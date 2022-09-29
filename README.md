@@ -1,15 +1,13 @@
-### Howdy, my name is Guilherme! 👋
-
-
-
-- 🔭 I’m currently working at NTL as apprentice of Full-Stack Developer 
-- 🌱 Student of System Analysis and Development at UERJ
 ##
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBarradas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBarradas&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+##
+<div align="center">
+ <img src="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/b000f1c64853b957fe608f08fd131c60602f168a/github-metrics.svg" alt="Metrics" width="40%">
+</table>
   <div align="center" style="display: inline_block"><br>
     <img alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
