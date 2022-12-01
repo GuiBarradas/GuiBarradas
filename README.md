@@ -12,8 +12,8 @@
 
 <div align="center">
  <img src="github-metrics.svg" alt="Metrics" width="50%">
-</table>
-  <div align="center" style="display: inline_block"><br>
+ </div>
+  <div align="center" style="display: inline_block"><br><br>
     <img alt="icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="icon-PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
