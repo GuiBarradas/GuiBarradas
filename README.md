@@ -28,11 +28,18 @@
   
   <div align="center">
     <img align="center" height="300" width="600"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/>
+ 
     <br>
    <em>Hey, chin up. I know the night just got darker, but it won't last forever</em>
   </div>
   
   ##
+  
+  <p align="center">
+  <img width="220" height="300" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21h3bfeechjffdb7va5bndiwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+</p>
+
+##
   
   <div align="center"> 
   <a href="https://instagram.com/skrmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
