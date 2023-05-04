@@ -27,7 +27,7 @@
   ##
   
   <div align="center">
-    <img align="center"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/>
+    <img align="center" height="300" width="600"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/>
     <br>
    <em>Hey, chin up. I know the night just got darker, but it won't last forever</em>
   </div>
