@@ -26,6 +26,14 @@
   
   ##
   
+  <div align="center">
+    <img align="center"src="https://i.pinimg.com/originals/77/93/d5/7793d5791d611e8a619a2a37bd5c4c29.gif"/>
+    <br>
+   <em>Hey, chin up. I know the night just got darker, but it won't last forever</em>
+  </div>
+  
+  ##
+  
   <div align="center"> 
   <a href="https://instagram.com/skrmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermebarradasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
