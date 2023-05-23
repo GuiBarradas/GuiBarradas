@@ -5,7 +5,7 @@
 
 
  •  🔭 Currently working at NTL as Apprentice Fullstack Developer <br>
- •  👨‍💼 Chief Executive Officer and Lead Developer at <a href="https://github.com/Rede-Ender">Rede Ender</a>  <br>
+ •  👨‍💼 CEO, Founder and Lead Developer at <a href="https://github.com/Rede-Ender">Rede Ender</a>  <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
