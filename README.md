@@ -4,7 +4,7 @@
 
 
 
- •  🔭 Currently working at NTL as Apprentice Fullstack Developer <br>
+ •  🔭 Currently searching for positions as Fullstack Developer <br>
  •  👨‍💼 Founder and Lead Developer at <a href="https://github.com/Rede-Ender">Rede Ender</a>  <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
