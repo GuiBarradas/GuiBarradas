@@ -4,7 +4,7 @@
 
 
 
- •  🔭 Currently searching for positions as Fullstack Developer <br>
+ •  🔭 Currently working at Pragma Developers as Fullstack Developer <br>
  •  👨‍💼 Founder and Lead Developer at <a href="https://github.com/Rede-Ender">Rede Ender</a>  <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
