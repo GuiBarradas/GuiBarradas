@@ -4,8 +4,8 @@
 
 
 
- •  🔭 Currently working at Defensoria Pública do Estado do Rio de Janeiro as Network Analyst <br>
- •  👨‍💼 Founder and Lead Developer at <a href="https://github.com/Rede-Ender">Rede Ender</a>  <br>
+ •  🔭 Currently working at Atom Meta Space as Blockchain Developer <br>
+ •  👨‍💼 Co-Founder and VP at <a href="https://github.com/PragmaDevelopers">OutZero</a>  <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
