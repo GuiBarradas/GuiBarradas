@@ -5,7 +5,6 @@
 
 
  •  🔭 Currently working at Atom Meta Space as Blockchain Developer <br>
- •  👨‍💼 Co-Founder and VP at <a href="https://github.com/PragmaDevelopers">OutZero</a>  <br>
  • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
