@@ -4,8 +4,6 @@
 
 
 
- •  🔭 Currently working at Atom Meta Space as Blockchain Developer <br>
- • 🌱 Student of System Analysis and Development at UERJ
 </div>
 
 ##
