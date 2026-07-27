@@ -22,6 +22,15 @@
     <img alt="icon-TailwindCSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
     <img alt="icon-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img alt="icon-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img alt="icon-Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white">
+      <img alt="icon-Rust" height="42" width="42" src="https://cdn.simpleicons.org/rust/black">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white">
+      <img alt="icon-Solidity" height="42" width="42" src="https://cdn.simpleicons.org/solidity/black">
+    </picture>
     <img alt="icon-PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img alt="icon-Supabase" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
     <img alt="icon-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
