@@ -31,7 +31,7 @@
   ##
   
   <p align="center">
-  <img width="220" height="300" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21h3bfeechjffdb7va5bndiwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
+  <img width="300" src="assets/couple-polaroid.png" alt="Pixel art polaroid of me and my girlfriend">
 </p>
 
 ##
