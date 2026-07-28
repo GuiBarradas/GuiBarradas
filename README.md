@@ -3,30 +3,11 @@
 <div align="center">
  <img src="github-metrics.svg" alt="Metrics" width="50%">
  </div>
-  <div align="center" style="display: inline_block"><br><br>
-    <img alt="icon-TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img alt="icon-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <div align="center"><br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
-      <img alt="icon-NextJS" height="42" width="42" src="https://cdn.simpleicons.org/nextdotjs/black">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/main/assets/tech-icons-dark.png">
+      <img alt="Tech stack: TypeScript, React, Next.js, Node.js, Tailwind, Python, Java, Go, Rust, Solidity, PostgreSQL, Supabase, Docker, Aseprite" width="790" src="https://raw.githubusercontent.com/GuiBarradas/GuiBarradas/main/assets/tech-icons-light.png">
     </picture>
-    <img alt="icon-NodeJS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img alt="icon-TailwindCSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-    <img alt="icon-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img alt="icon-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img alt="icon-Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/white">
-      <img alt="icon-Rust" height="42" width="42" src="https://cdn.simpleicons.org/rust/black">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solidity/white">
-      <img alt="icon-Solidity" height="42" width="42" src="https://cdn.simpleicons.org/solidity/black">
-    </picture>
-    <img alt="icon-PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img alt="icon-Supabase" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
-    <img alt="icon-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img alt="icon-Aseprite" height="42" width="42" src="https://cdn.simpleicons.org/aseprite">
   </div>
   
   ##
