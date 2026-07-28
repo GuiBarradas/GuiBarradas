@@ -1,11 +1,3 @@
-<div align="center">
-<b>Howdy, my name is Guilherme!</b> 👋
-<br><br>
-
-
-
-</div>
-
 ##
 
 <div align="center">
